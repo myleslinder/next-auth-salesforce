@@ -1,0 +1,17 @@
+{
+  "name": "next-auth-salesforce",
+  "version": "1.0.0",
+  "description": "Salesforce db adapter for next-auth",
+  "main": "index.js",
+  "author": "myleslinder",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.4",
+    "next-auth": "^3.27.3",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
